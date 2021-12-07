@@ -7,7 +7,7 @@ if (hourNow > 18) {
 } else if (hourNow > 12) {
   greeting = "Good Afternoon!";
 } else if (hourNow > 0) {
-  greeting = "Habari za asubuhi";
+  greeting = "Habari za asubuhi!!";
 } else {
   greeting = "Karibu sana!";
 }
